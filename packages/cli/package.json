@@ -137,6 +137,7 @@
     "lodash": "catalog:",
     "luxon": "catalog:",
     "mysql2": "3.11.0",
+    "n8n": "workspace:^",
     "n8n-core": "workspace:*",
     "n8n-editor-ui": "workspace:*",
     "n8n-nodes-base": "workspace:*",

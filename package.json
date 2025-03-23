@@ -74,7 +74,25 @@
   },
   "pnpm": {
     "onlyBuiltDependencies": [
-      "sqlite3"
+      "@biomejs/biome",
+      "@fortawesome/fontawesome-common-types",
+      "@fortawesome/fontawesome-svg-core",
+      "@fortawesome/free-regular-svg-icons",
+      "@fortawesome/free-solid-svg-icons",
+      "core-js",
+      "cpu-features",
+      "cypress",
+      "esbuild",
+      "eslint-plugin-n8n-nodes-base",
+      "lefthook",
+      "msgpackr-extract",
+      "protobufjs",
+      "sharp",
+      "sqlite3",
+      "ssh2",
+      "tree-sitter",
+      "tree-sitter-bash",
+      "vue-demi"
     ],
     "overrides": {
       "@types/node": "^18.16.16",
